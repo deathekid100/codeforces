@@ -1,1 +1,1 @@
-Soluciones del JudgeOnline Codeforce
+Se puede hacer utilizando math pero basicamente es hacer una busqeuda binaria sobre los problemas q puede resolver
