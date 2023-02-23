@@ -1,0 +1,2 @@
+En este ejercicio tenemos que buscar en que recipiente esta el nth gusano, basta con hacer una suma acumulada de los recipientes y realizar una busqueda binaria para encontrar el recipiente donde esta el gusano, ej si la X cae en los limites es ese sino es el siguiente
+https://codeforces.com/problemset/problem/474/B
