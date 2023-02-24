@@ -1,0 +1,2 @@
+la idea es hacer una Busqueda binaria para encontrar el maximo numero que esta en el arreglo y para mover los indices calcular el max y el min valor que puedes obtener con ese valor, luego buscar cuantos numero hay divisibles en el intervalo [Min,Max] divisibles por K si existe te mueves pa abajo si no pa arriba (ojo los numeros pueden ser grandes)
+https://codeforces.com/problemset/problem/1476/A
