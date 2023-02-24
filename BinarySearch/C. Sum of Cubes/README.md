@@ -1,0 +1,2 @@
+en este ejercicio hay que usar una tecnica de pre-procesado para guardar todas las potencias de 3 desde 1 hasta la raiz de 10^12 (1000000) luego para saber si un numero es potencia de 3 usamos una busqueda binaria, (la operacion logaritmo es muy costosa) e iteramos desde 1 hasta la raiz cubica de N para buscar que N - (i*i*i) es un cubo
+https://codeforces.com/problemset/problem/1490/C
